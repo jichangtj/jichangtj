@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**jichangtj/jichangtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**秘密研究所导航/秘密研究所导航** 是一个 ✨ _特别的_ ✨ 仓库，因为它的 `README.md` 会显示在你的 GitHub 主页上。
 -->
+
+欢迎来到 **秘密研究所导航**！这是一个为科技爱好者和研究人员打造的资源导航仓库，汇集了实验项目、学习资料和有趣工具，帮助你探索前沿科技与创新灵感。  
+
+### 🔭 我目前在做
+整理和分享科技资源、实验项目以及开源工具。  
+
+### 🌱 我正在学习
+前沿科技、人工智能和数据分析。  
+
+### 👯 我希望合作
+有兴趣的朋友可以一起整理资源或开发有趣项目。  
+
+### 💬 联系我
+- 邮箱: dizhiav@gmail.com  
+- 个人网站: [https://www.mimiyjs.top](https://www.mimiyjs.top)  
+- 研究资源博客: [https://mmyjs.top](https://mmyjs.top)  
+
+### ⚡ 趣味小事实
+我喜欢探索未知的科技实验和隐藏的创新工具。  
